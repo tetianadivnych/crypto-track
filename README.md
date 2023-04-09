@@ -1,4 +1,4 @@
-# 😎 Java Test Task Solution for ORIL 
+# Crypto Track Application
 
 This project is designed to get up-to-date information about prices for cryptocurrencies from CEX.IO(https://cex.io/). The system fetches the last prices in USD for Bitcoin(BTC), Ethereum(ETH) and Ripple (XRP) every 30 minutes, and adds them to a database for further management.
 
